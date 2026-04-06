@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌌 Cosmos — Proximity-Based Virtual Space
 
 A real-time 2D virtual world where **proximity creates connection**.  
